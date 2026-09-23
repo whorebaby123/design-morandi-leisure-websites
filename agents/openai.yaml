@@ -1,0 +1,4 @@
+interface:
+  display_name: "莫兰迪休闲网页设计"
+  short_description: "复用莫兰迪低饱和配色、现代字体与实体按钮，构建冷色桌面和暖色控制台"
+  default_prompt: "使用 $design-morandi-leisure-websites 设计两版构图明显不同的莫兰迪个人网站。"
